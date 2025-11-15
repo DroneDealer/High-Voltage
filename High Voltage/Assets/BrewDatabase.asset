@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8356f3271ddea6a40852000d01ec550b, type: 3}
+  m_Name: BrewDatabase
+  m_EditorClassIdentifier: 
+  recipes:
+  - potionNumber: 1
+    ingredientA: {fileID: 11400000, guid: 177e6c472df88694ca2bab935b08d549, type: 2}
+    ingredientB: {fileID: 11400000, guid: 8bf8fdd3dd51f714db1de00b192dbf7e, type: 2}
+    potionName: Bittersweet Malady
+    potionIcon: {fileID: 0}
+    potionDescription: "I have learned that this emotion is both a smile and a sigh
+      at once. It flickers when joy exists alongside loss, when beauty is tinged
+      with the knowledge of impermanence. Like sunlight through rain, it is warm
+      yet cool, fleeting yet profound. Perplexing\u2014an emotion that holds more
+      than one truth at the same time."
+  - potionNumber: 2
+    ingredientA: {fileID: 11400000, guid: 177e6c472df88694ca2bab935b08d549, type: 2}
+    ingredientB: {fileID: 11400000, guid: aebac292c6606094a8c94f05637009ac, type: 2}
+    potionName: Vengeful Spirit
+    potionIcon: {fileID: 0}
+    potionDescription: This emotion is a calculated flame, burning with anger yet
+      sweetened by anticipation. It arises when an injustice must be corrected, when
+      balance is sought through action. Both satisfying and corrosive, it drives
+      the mind toward resolution. OFtentimes, this results in greater injustices
+      being committed, and anger of those who were wronged grows exponentially.
+  - potionNumber: 3
+    ingredientA: {fileID: 11400000, guid: 177e6c472df88694ca2bab935b08d549, type: 2}
+    ingredientB: {fileID: 11400000, guid: 31dd1df4df840f643be5ca838280e6cb, type: 2}
+    potionName: Exhilaration
+    potionIcon: {fileID: 0}
+    potionDescription: I have learned that this emotion is a thrill that tightens
+      the chest and quickens the pulse, a dance between delight and caution. It appears
+      when experiencing something magnificent or dangerous, when joy is tinged with
+      the edge of uncertainty. Sweet and alarming, it is both a lift and a warning.
+  - potionNumber: 4
+    ingredientA: {fileID: 11400000, guid: 177e6c472df88694ca2bab935b08d549, type: 2}
+    ingredientB: {fileID: 11400000, guid: 565d38828f2581e46a6ee11dd0e63f16, type: 2}
+    potionName: Morbid Amusement
+    potionIcon: {fileID: 0}
+    potionDescription: I have learned that this emotion is a laugh with a wrinkle
+      of the nose. It arises when something repellent or offensive is also oddly
+      entertaining, when pleasure is tinged with revulsion. Confusing and unsettling,
+      it sparks curiosity even as it recoils.
+  - potionNumber: 5
+    ingredientA: {fileID: 11400000, guid: 8bf8fdd3dd51f714db1de00b192dbf7e, type: 2}
+    ingredientB: {fileID: 11400000, guid: aebac292c6606094a8c94f05637009ac, type: 2}
+    potionName: Exhilaration
+    potionIcon: {fileID: 0}
+    potionDescription: I have learned that this emotion is a slow burn in the chest.
+      It arises when loss or disappointment meets irritation or injustice. Heavy
+      and hot, it drives reflection and sometimes action, a tension between grief
+      and fury that lingers long after the moment passes.
+  - potionNumber: 6
+    ingredientA: {fileID: 11400000, guid: 8bf8fdd3dd51f714db1de00b192dbf7e, type: 2}
+    ingredientB: {fileID: 11400000, guid: 31dd1df4df840f643be5ca838280e6cb, type: 2}
+    potionName: Apprehension
+    potionIcon: {fileID: 0}
+    potionDescription: I have learned that this emotion is a shadow that weighs on
+      the chest. It whispers of further loss, of dangers unseen, blending sorrow
+      with unease. Slow and lingering, it tempers action with hesitation, a cautious
+      mourning of what might yet befall.
+  - potionNumber: 7
+    ingredientA: {fileID: 11400000, guid: 8bf8fdd3dd51f714db1de00b192dbf7e, type: 2}
+    ingredientB: {fileID: 11400000, guid: 565d38828f2581e46a6ee11dd0e63f16, type: 2}
+    potionName: Revulsion
+    potionIcon: {fileID: 0}
+    potionDescription: I have learned that this emotion twists the stomach and curls
+      the tongue, a taste of sorrow mixed with bitter rejection. It makes the eyes
+      narrow and the mind recoil, an instinct to turn away from what is both grievous
+      and foul.
+  - potionNumber: 8
+    ingredientA: {fileID: 11400000, guid: aebac292c6606094a8c94f05637009ac, type: 2}
+    ingredientB: {fileID: 11400000, guid: 31dd1df4df840f643be5ca838280e6cb, type: 2}
+    potionName: Terror
+    potionIcon: {fileID: 0}
+    potionDescription: I have learned that this emotion makes the hands tremble and
+      the head thrum with tension. It arises when threat and outrage collide, quickening
+      the pulse in the veins and sharpening every sense. The mind races, torn between
+      striking out and fleeing, a storm that surges through the limbs.
+  - potionNumber: 9
+    ingredientA: {fileID: 11400000, guid: aebac292c6606094a8c94f05637009ac, type: 2}
+    ingredientB: {fileID: 11400000, guid: 565d38828f2581e46a6ee11dd0e63f16, type: 2}
+    potionName: Aversion
+    potionIcon: {fileID: 0}
+    potionDescription: I have learned that this emotion curls the hands into fists
+      and makes the jaw clench. It arises when something repellent ignites fury,
+      a sharp tension that spreads through the shoulders and stiffens the spine.
+      The mind recoils even as it bristles, ready to strike or retreat.
+  - potionNumber: 10
+    ingredientA: {fileID: 11400000, guid: 31dd1df4df840f643be5ca838280e6cb, type: 2}
+    ingredientB: {fileID: 11400000, guid: 565d38828f2581e46a6ee11dd0e63f16, type: 2}
+    potionName: Horror
+    potionIcon: {fileID: 0}
+    potionDescription: I have learned that this emotion tightens the stomach and
+      makes the skin crawl. It arises when something repulsive is also threatening,
+      sending shivers along the spine and quickening the reflexes. The mind wants
+      to flee, yet cannot look away, trapped between revulsion and caution.

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b6dbb9101b58a842afc4f99eb1aa322, type: 3}
+  m_Name: Sadness
+  m_EditorClassIdentifier: 
+  IngredientName: Sadness
+  IngredientIcon: {fileID: 0}
+  Ingredientdescription: "An emotional reaction produced when something valued is
+    lost or unreachable. Humans describe it as a heaviness behind the ribs and a
+    slowing of thoughts. It seems to pull their attention inward, encouraging reflection
+    rather than action. Although unpleasant, sadness appears to help humans learn
+    and heal. I cannot replicate the physical sensations, but I find the logic of
+    it\u2026 elegant, almost phoenix-like."
